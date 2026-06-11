@@ -1,0 +1,247 @@
+[
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "InsertBookRecords",
+    "RelativePath": "api/books",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DBOpeartionsWithEFCoreApp.Data.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "GetAllBokksRecords",
+    "RelativePath": "api/books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "UpdateDataUsingSingleCommand",
+    "RelativePath": "api/books",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DBOpeartionsWithEFCoreApp.Data.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "UpdateData",
+    "RelativePath": "api/books/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "DBOpeartionsWithEFCoreApp.Data.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "DeleteData",
+    "RelativePath": "api/books/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "DeleteDataInBulk",
+    "RelativePath": "api/books/bulk",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "BulkInsertIntoTable",
+    "RelativePath": "api/books/bulkInsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[DBOpeartionsWithEFCoreApp.Data.Book, DBOpeartionsWithEFCoreApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "UpdateDataBulk",
+    "RelativePath": "api/books/bulkUpdate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "GetRelatedData",
+    "RelativePath": "api/books/getRelatedData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.BooksController",
+    "Method": "GetSQLQueryData",
+    "RelativePath": "api/books/getSQLQueryData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllCurrencies",
+    "RelativePath": "api/currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetCurrencyByIdAsync",
+    "RelativePath": "api/currencies/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllCurrencyByNameAndDescAsync",
+    "RelativePath": "api/currencies/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllRecordsBasedOnIds",
+    "RelativePath": "api/currencies/all",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetSpecificColumnsBasedOnIds",
+    "RelativePath": "api/currencies/specific",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.LanguageController",
+    "Method": "GetAllLanguages",
+    "RelativePath": "api/languages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBOpeartionsWithEFCoreApp.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DBOpeartionsWithEFCoreApp.WeatherForecast, DBOpeartionsWithEFCoreApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

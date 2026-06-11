@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|f:\\asp.net core\\entityframewordcore\\dboperationswithefcore\\dbopeartionswithefcoreapp\\dbopeartionswithefcoreapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|solutionrelative:dbopeartionswithefcoreapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|f:\\asp.net core\\entityframewordcore\\dboperationswithefcore\\dbopeartionswithefcoreapp\\dbopeartionswithefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|solutionrelative:dbopeartionswithefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|f:\\asp.net core\\entityframewordcore\\dboperationswithefcore\\dbopeartionswithefcoreapp\\dbopeartionswithefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|solutionrelative:dbopeartionswithefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|f:\\asp.net core\\entityframewordcore\\dboperationswithefcore\\dbopeartionswithefcoreapp\\dbopeartionswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|solutionrelative:dbopeartionswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|f:\\asp.net core\\entityframewordcore\\dboperationswithefcore\\dbopeartionswithefcoreapp\\dbopeartionswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|solutionrelative:dbopeartionswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|f:\\asp.net core\\entityframewordcore\\dboperationswithefcore\\dbopeartionswithefcoreapp\\dbopeartionswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BDCDA-28C5-F1D4-1B55-92478B02D89A}|DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp.csproj|solutionrelative:dbopeartionswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Language.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Data\\Language.cs",
+              "RelativeDocumentMoniker": "DBOpeartionsWithEFCoreApp\\Data\\Language.cs",
+              "ToolTip": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Data\\Language.cs",
+              "RelativeToolTip": "DBOpeartionsWithEFCoreApp\\Data\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:23:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "DBOpeartionsWithEFCoreApp\\Data\\Book.cs",
+              "ToolTip": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Data\\Book.cs",
+              "RelativeToolTip": "DBOpeartionsWithEFCoreApp\\Data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:56:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "DBOpeartionsWithEFCoreApp\\Controllers\\BooksController.cs",
+              "ToolTip": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "DBOpeartionsWithEFCoreApp\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAiwL4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:30:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "DBOpeartionsWithEFCoreApp\\Program.cs",
+              "ToolTip": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Program.cs",
+              "RelativeToolTip": "DBOpeartionsWithEFCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:23:30.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DBOpeartionsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DBOpeartionsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:20:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DBOpeartionsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ToolTip": "F:\\ASP.NET Core\\EntityFramewordCore\\DBOperationsWithEFCore\\DBOpeartionsWithEFCoreApp\\DBOpeartionsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "DBOpeartionsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:31:45.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
